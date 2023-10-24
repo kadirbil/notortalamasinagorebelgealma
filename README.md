@@ -1,0 +1,2 @@
+# yasagoretutarcpp
+cppdenemeleri
